@@ -1,0 +1,12 @@
+.file {
+  display: flex;
+  flex-direction: column;
+  margin-top: 5px;
+}
+
+.folder {
+  cursor: pointer;
+  width: 40%;
+  display: flex;
+  justify-content: space-around;
+}
